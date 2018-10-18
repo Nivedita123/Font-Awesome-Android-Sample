@@ -1,4 +1,4 @@
-# font-awesome=android-sample
+# Font Awesome Android app sample
 
 This repository is a part of the blogpost at - 
 
